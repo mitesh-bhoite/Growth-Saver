@@ -1,1 +1,1 @@
-# Growth-Saver
+# GrowthSaver: Eco-Friendly Savings Calculator
