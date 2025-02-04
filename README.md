@@ -15,17 +15,6 @@ Growth Saver is a web application built using **HTML, CSS, and JavaScript** to h
 - **CSS**: Styling and layout design
 - **JavaScript**: Functionality and dynamic features
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/growth-saver.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd growth-saver
-   ```
-3. Open the `index.html` file in your preferred web browser.
-
 ## Usage
 1. Enter your income and expenses.
 2. Set savings goals.
@@ -39,8 +28,3 @@ Growth Saver is a web application built using **HTML, CSS, and JavaScript** to h
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements or new features.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries or feedback, reach out to me at **your-email@example.com** or visit my [GitHub Profile](https://github.com/yourusername).
