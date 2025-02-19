@@ -1,6 +1,5 @@
 // Initialize Feather icons
 feather.replace();
-
 // Roadmap Step 1: Select DOM elements
 const goalAmountInput = document.getElementById("goal-amount");
 const currentSavingsInput = document.getElementById("current-savings");
